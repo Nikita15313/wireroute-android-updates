@@ -1,2 +1,7 @@
-# wireroute-android-updates
-Подписанные обновления WireRoute для Android
+# WireRoute для Android
+
+Здесь выходят подписанные APK WireRoute для Android. APK последней версии доступен в [Releases](https://github.com/Nikita15313/wireroute-android-updates/releases/latest).
+
+Устанавливайте свежий APK поверх уже установленного WireRoute. Android проверяет подпись и сохраняет настройки и профили приложения. Промежуточные версии устанавливать не требуется.
+
+В репозитории публикуются файлы выпусков и сведения об обновлениях. Профили VPN, личные данные и закрытые ключи подписи в канал не входят.
